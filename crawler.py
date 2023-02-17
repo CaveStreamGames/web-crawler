@@ -59,4 +59,4 @@ class Crawler:
 # Define the entry point for the script
 if __name__ == '__main__':
     # Create a new Crawler object and run it with a starting URL of https://www.cavestreamgames.com/
-    Crawler(urls=['https://www.cavestreamgames.com/']).run()
+    Crawler(urls=['https://www.humblebundle.com/']).run()
